@@ -92,5 +92,5 @@ Git &middot; VS Code &middot; IntelliJ IDEA &middot; Visual Studio
 <!-- ─── CONTACT ─── -->
 
 <p align="center" style="margin: 100px 0 60px 0;">
-<a href="mailto:Zorroedward0@gmail.com?subject=Contacto%20desde%20tu%20GitHub&amp;body=Hola%20Edwar%2C%0A%0AVi%20tu%20perfil%20en%20GitHub%20y%20me%20gustar%C3%ADa%20conversar%20contigo.%0A%0A%28Escribe%20tu%20mensaje%20aqu%C3%AD%29" style="font-size: 1.2rem; font-weight: 600;">Get in touch &rarr;</a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=Zorroedward0@gmail.com&amp;su=Contacto%20desde%20tu%20GitHub&amp;body=Hola%20Edwar%2C%0A%0AVi%20tu%20perfil%20en%20GitHub%20y%20me%20gustar%C3%ADa%20conversar%20contigo.%0A%0A%28Escribe%20tu%20mensaje%20aqu%C3%AD%29" style="font-size: 1.2rem; font-weight: 600;">Get in touch &rarr;</a>
 </p>
